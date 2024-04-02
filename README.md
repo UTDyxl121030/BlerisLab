@@ -1,6 +1,36 @@
 # BlerisLab
 Machine learning projects from Bleris Lab at UTD
 
+Supplementary_Scripts/MLP-Partial-10-16.pkl: Candidate predictive model using the partial feature set and Multilayer Perceptron.
+
+Supplementary_Scripts/MLP-Total-5-26.pkl: Candidate predictive model using the semi-complete feature set and Multilayer Perceptron.
+
+Supplementary_Scripts/RF-Partial-19.pkl: Candidate predictive model using the partial feature set and Random Forest.
+
+Supplementary_Scripts/RF-Total-89.pkl: Candidate predictive model using the semi-complete feature set and Random Forest.
+
+Supplementary_Scripts/RF-Partial-Level-8.pkl: Candidate predictive model using the partial feature set, Random Forest, and scaled outputs.
+
+Supplementary_Scripts/data_boxplot.py: Python script for boxplot graphing for numerical features.
+
+Supplementary_Scripts/feature_importance.py: Python script for calculating importance scores of features.
+
+Supplementary_Scripts/pca_training.py: Python script for data visualization using PCA.
+
+Supplementary_Scripts/tsne_training.py: Python script for data visualization using t-sne.
+
+Supplementary_Scripts/umap_training.py: Python script for data visualization using UMAP.
+
+Supplementary_Scripts/shannon_equation.py: Python script for modeling using original Shannon equation.
+
+Supplementary_Scripts/knn_trianing.py: Python script for modeling using KNN algorithm.
+
+Supplementary_Scripts/randomForest_trianing.py: Python script for modeling using Random Forest algorithm.
+
+Supplementary_Scripts/logisticRegression.py: Python script for modeling using logistic regression algorithm.
+
+Supplementary_Scripts/MLP_trianing.py: Python script for modeling using MLP algorithm.
+
 Supplementary Data 1. Neuromodulation dataset for meta-analyses. 385 neuromodulation experimental results were compiled from 58 publications.
 
 Supplementary Data 2. The training dataset. The training dataset contained 308 entries, of which 151 were with label 0, and 157 were with label 1.
