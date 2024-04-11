@@ -47,13 +47,7 @@ Supplementary Data 7. The predictive performances of the 9 candidate models whic
 
 Supplementary Data 8. The predictive performances of candidate models using One-Hot encoding, random forest, Partial feature set, and non-binary labels (levels 0-4).
 
-Supplementary Data 9. The training dataset using ordinal encoding for categorical features. The training dataset contained 308 entries, of which 155 were with label 0, and 153 were with label 1.
-
-Supplementary Data 10. The testing dataset using ordinal encoding for categorical features. The training dataset contained 77 entries, of which 40 were with label 0, and 37 were with label 1.
-
-Supplementary Data 11. The predictive performances of candidate models using encoding, random forest, and Partial feature set.
-
-Supplementary Data 12. Database of new parameters for validation with binary labels and predictions.
+Supplementary Data 9. Database of new parameters for validation with binary labels and predictions.
 
 Supplementary Scripts. The RF-Partial-19 model, and other main python scripts used in building and evaluating the predictive models in this study.
 
